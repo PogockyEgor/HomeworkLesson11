@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Massive {
 
-    static int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+    private static int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
     static void elementOfMassive() {
         Scanner scanner = new Scanner(System.in);
